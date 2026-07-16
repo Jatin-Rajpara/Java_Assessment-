@@ -14,7 +14,7 @@
 // (103,'Pasta',220,true),
 // (104,'Sandwich',150,false);
 
-// Step 2: Java Program :
+
 
 import java.sql.*;
 import java.util.ArrayList;
